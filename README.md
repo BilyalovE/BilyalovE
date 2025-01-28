@@ -32,6 +32,6 @@
 ---
 
 ## 📊 Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Eldar?theme=light&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Eldar_team_yandex?theme=light&ext=activity)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilyalovE&layout=compact&theme=light)
