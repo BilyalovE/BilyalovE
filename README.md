@@ -7,6 +7,7 @@
 **Моя цель** – продолжать развиваться как профессионал в области программирования и информационных технологий. Я стремлюсь к получению опыта работы в реальных проектах и карьерному росту в IT-индустрии.
 
 
+
 ## **🛠 Languages and Tools**
 <p align="left">
   <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/CSharp/csharp1.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="C#">
@@ -19,8 +20,12 @@
 
 
 
+
+
 ## 📫 Contacts
 [![Telegram](https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/Telegram/telegram1.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bilyalov_e)
+
+
 
 
 ## 📊 Stats
