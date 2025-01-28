@@ -10,7 +10,7 @@
 
 ## **🛠 Languages and Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/CSharp/csharp1.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="">
   <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/C%2B%2B/c%2B%2B1.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C++">
   <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/C/c1.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C">
   <img src="https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/PostgreSQL/postgresql1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
