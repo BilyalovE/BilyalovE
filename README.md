@@ -30,8 +30,6 @@
 
 ## Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Eldar_team_yandex?theme=light)
-![](https://leetcard.jacoblin.cool/Eldar_team_yandex?theme=wtf&font=Dancing_Script&border=0&radius=20)
-
 
 
 
