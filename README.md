@@ -29,5 +29,5 @@
 
 
 ## Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Eldar_team_yandex?theme=light)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Bilyalov_Eldar?theme=light)
 
