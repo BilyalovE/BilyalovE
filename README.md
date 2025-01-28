@@ -32,6 +32,6 @@
 ---
 
 ## 📊 Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username?theme=light&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Eldar?theme=light&ext=activity)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=light)
