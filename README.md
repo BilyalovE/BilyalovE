@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bilyalov_e)
+[![Telegram](https://github.com/ziadOUA/m3-Markdown-Badges/blob/master/badges/Telegram/telegram2.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bilyalov_e)
 
 ---
 
