@@ -30,6 +30,7 @@
 
 ## Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Eldar_team_yandex?theme=light)
+![](https://leetcard.jacoblin.cool/Eldar_team_yandex?theme=light)
 
 
 
