@@ -1,16 +1,27 @@
-## Hi there 👋
+# Student & Java Developer
 
-<!--
-**BilyalovE/BilyalovE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Являюсь студентом **Школы 21 от Сбера**, где получаю образование в области программирования уже восемь месяцев. Также я студент 4 курса **Московского университета РГУ нефти и газа** с углубленным интересом к программированию и информационным технологиям.
 
-Here are some ideas to get you started:
+В последние несколько месяцев моя активность сосредоточена на изучении Java, Spring и C++, а также на решении задач на платформах LeetCode и Яндекс Алгоритмы. Моя целеустремленность, терпение и усердие помогают мне постоянно развиваться и достигать новых высот в мире программирования.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Моя цель** – продолжать развиваться как профессионал в области программирования и информационных технологий. Я стремлюсь к получению опыта работы в реальных проектах и карьерному росту в IT-индустрии.
+
+---
+
+## 🛠 Languages and Tools
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📫 Contacts
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+
+---
+
+## 📊 Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username?theme=light&ext=activity)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=light)
