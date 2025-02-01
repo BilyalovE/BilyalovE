@@ -23,5 +23,5 @@
 ## Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Bilyalov_Eldar?theme=light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilyalov_Eldar)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilyalovE)
 
